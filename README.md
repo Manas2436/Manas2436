@@ -26,5 +26,5 @@ Productivity tracker with Pomodoro timer, task management, authentication, and l
 
 ## 📫 Connect
 📧 kothawademanas@gmail.com  
-💼 LinkedIn: linkedin.com/in/manas-kothawade
+💼 LinkedIn: [linkedin.com/in/manas-kothawade]
 
