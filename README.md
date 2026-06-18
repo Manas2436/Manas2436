@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey 👋 I'm Manas Kothawade
 
-<!--
-**Manas2436/Manas2436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-Focused Full Stack Developer passionate about building scalable web applications and IoT-powered solutions.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+Node.js • Express.js • MongoDB • JavaScript • Firebase • ESP32 • REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I'm Working On
+- Backend Development
+- Full Stack Web Applications
+- IoT & Embedded Systems
+- Data Structures & Algorithms
+
+## 📌 Featured Projects
+
+### EcoBin
+Smart recycling platform using ESP32, RFID, Firebase, and real-time analytics.
+
+### Study Productivity App
+Productivity tracker with Pomodoro timer, task management, authentication, and leaderboard system.
+
+## 🏆 Highlights
+- Deloitte Virtual Internship (Coding & Development)
+- 80+ LeetCode Problems Solved
+- SIH & Hackathon Participant
+
+## 📫 Connect
+📧 kothawademanas@gmail.com  
+💼 LinkedIn: linkedin.com/in/manas-kothawade
+
