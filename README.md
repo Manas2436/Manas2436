@@ -21,7 +21,7 @@ Productivity tracker with Pomodoro timer, task management, authentication, and l
 
 ## 🏆 Highlights
 - Deloitte Virtual Internship (Coding & Development)
-- 80+ LeetCode Problems Solved
+- 100+ LeetCode Problems Solved
 - SIH & Hackathon Participant
 
 ## 📫 Connect
